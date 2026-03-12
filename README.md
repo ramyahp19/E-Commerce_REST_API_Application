@@ -77,12 +77,7 @@ http://localhost:8080
 
 ---
 
-# 🔮 **Future Improvements**
 
-💳 Payment Integration
-📧 Email Notifications
-📊 Pagination & Sorting
-🐳 Docker Deployment
 
 ---
 
