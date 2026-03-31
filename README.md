@@ -1,6 +1,6 @@
 # 🛒 **E-Commerce REST API**
 
-## 🚀 **Secure Spring Boot Backend for an E-Commerce Platform**
+## 🛒 CommerceCore – A Secure & Scalable E-Commerce Backend with Spring Boot**
 
 This project provides REST APIs for **user authentication, product management, shopping cart operations, and order processing** using **Java, Spring Boot, Spring Security, and JWT**.
 
